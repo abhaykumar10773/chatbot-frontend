@@ -1,0 +1,4 @@
+.highlight {
+    background-color: rgb(111, 201, 205);
+    transition: background-color 0.5s ease;
+  }
